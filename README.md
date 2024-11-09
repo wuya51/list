@@ -4,6 +4,7 @@
 | ID | Name | Link | code | frequency |
 | --- | --- | --- | --- | --- |
 | 1 | swisstronik | https://www.swisstronik.com/testnet2/dashboard |   | ending soon |
+| 2 | tea         | https://app.tea.xyz/sign-up?r=0YwtBIw-QyK | 0YwtBIw-QyK |  |
 | 2 | absinthe    | https://points.absinthe.network/hemi/start | b64c5fe5 | daily |
 | 3 | mintchain   | https://www.mintchain.io/mint-forest?inviteCode=923B35D | 923B35D | daily |
 | 4 | soniclabs   | https://arcade.soniclabs.com | bfphcs | daily |
