@@ -1,0 +1,12 @@
+https://www.swisstronik.com/testnet2/dashboard (ending soon)
+https://points.absinthe.network/hemi/start (daily)
+https://www.mintchain.io/mint-forest?inviteCode=923B35D1 (daily)
+https://arcade.soniclabs.com/ (Code:bfphcs) (daily)
+https://testnet.humanity.org/login?ref=wuya51 (daily)
+https://testnet.plaza.finance/ (daily)
+https://testnet.icn.global/ 
+https://stake.walrus.site/  (daily)
+https://app-testnet.yala.org/ (daily)
+https://daobase.ai/point/task?inviteId=I2TIQF (daily)
+https://genesis.chainbase.com/referral?referral_code=J5FMOAXH7 (weekly)
+https://www.emojicoin.fun/ (daily)
