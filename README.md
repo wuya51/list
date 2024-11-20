@@ -2,7 +2,7 @@
 
 ### 1⃣Testnet or tasks (Currently being updated)
 | ID | Name | Link | code | frequency |airdrop |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1 | swisstronik | https://www.swisstronik.com/testnet2/dashboard |   | ending soon |   |
 | 2 | tea         | https://app.tea.xyz/sign-up?r=0YwtBIw-QyK | 0YwtBIw-QyK |  |   |
 | 2 | absinthe    | https://points.absinthe.network/hemi/start | b64c5fe5 | daily |   |
