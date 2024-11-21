@@ -14,7 +14,7 @@
 | 8 | yala        | https://app-testnet.yala.org/ |  | daily |   |
 | 9 | daobase.ai  | https://daobase.ai/point/task?inviteId=I2TIQF | I2TIQF | daily |   |
 | 10 | chainbase  | https://genesis.chainbase.com/referral?referral_code=J5FMOAXH7 | J5FMOAXH7 | weekly |   |
-| 11 | emojicoin  | https://www.emojicoin.fun/  | | daily |   |
+| 11 | emojicoin  | https://www.emojicoin.fun/  | | END |   |
 | 12 | Xion       | https://believe.xion.burnt.com  | | Check | ☑️ |
 
 
