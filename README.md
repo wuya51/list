@@ -16,6 +16,7 @@
 | 10 | chainbase  | https://genesis.chainbase.com/referral?referral_code=J5FMOAXH7 | J5FMOAXH7 | weekly |   |
 | 11 | emojicoin  | https://www.emojicoin.fun/  | | END |   |
 | 12 | Xion       | https://believe.xion.burnt.com  | | Check | ☑️ |
+| 13 | antcore    | https://portal.antcore.finance  | |   |   |
 
 
 
