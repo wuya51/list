@@ -14,7 +14,7 @@
 | 9 | walrus      | https://stake.walrus.site |   | daily |   |
 | 10| yala        | https://app-testnet.yala.org/ |  | daily |   |
 | 11| daobase.ai  | https://daobase.ai/point/task?inviteId=I2TIQF | I2TIQF | daily |   |
-| 12 | chainbase  | https://genesis.chainbase.com/referral?referral_code=J5FMOAXH7 | J5FMOAXH7 | weekly |   |
+| 12 | chainbase  | https://genesis.chainbase.com/referral?referral_code=J5FMOAXH7 | J5FMOAXH7 | daily |   |
 | 13 | emojicoin  | https://www.emojicoin.fun/  | | END |   |
 | 14 | Xion       | https://believe.xion.burnt.com  | | Check | ☑️ |
 | 15 | antcore    | https://portal.antcore.finance/?ref_id=360  | | daily  ||
