@@ -17,7 +17,9 @@
 | 12 | chainbase  | https://genesis.chainbase.com/referral?referral_code=J5FMOAXH7 | J5FMOAXH7 | weekly |   |
 | 13 | emojicoin  | https://www.emojicoin.fun/  | | END |   |
 | 14 | Xion       | https://believe.xion.burnt.com  | | Check | ☑️ |
-| 15 | antcore    | https://portal.antcore.finance  | |   |   |
+| 15 | antcore    | https://portal.antcore.finance/?ref_id=360  | |   |daily|
+| 16 | fardog     | https://fardog.xyz/referral/705467  |705467 |daily|   |
+| 17 | somnia     | https://quest.somnia.network/referrals/C3255918  |C3255918 |   |   |
 
 
 
@@ -36,8 +38,8 @@
 | sonaric |  | 
 | farcaster |  | 
 | elixir |  | 
-| VANA |  | 
-| sixgpt |  | 
+| VANA | ☑ | 
+| sixgpt | ☑ | 
 | Dusk |  | 
 | Dria |  | 
 | Allora |  | 
