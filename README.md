@@ -1,7 +1,7 @@
 [TG](https://t.me/new5151): https://t.me/new5151
 
 ### 1⃣Testnet or tasks (Currently being updated)
-| ID | Name | Link | code | frequency |airdrop |
+| ID | Name | Link | code | frequency |airdrop | 
 | --- | --- | --- | --- | --- | --- |
 | 1 | swisstronik | [SWTR Allocation ](https://docs.google.com/spreadsheets/d/1qz0cIvFhXFs8CmZ-PaiGnH0TwNQ-mM988nFQeoUNoMs/edit?utm_team=mkltd&utm_channel=0&utm_creative=0&utm_lang=en&utm_date=45615&gid=0#gid=0)|   | Check  | TGE: Q1 25  |
 | 2 | tea         | https://app.tea.xyz/sign-up?r=0YwtBIw-QyK | 0YwtBIw-QyK |  | TGE: Q1 25   |
