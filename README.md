@@ -8,7 +8,7 @@
 | 3 | absinthe    | https://points.absinthe.network/hemi/start | b64c5fe5 | daily |   |
 | 4 | mintchain   | https://www.mintchain.io/mint-forest?inviteCode=923B35D | 923B35D | daily |   |
 | 5 | plaza       | https://testnet.plaza.finance/rewards/3guzPd3LGlJP |   | daily |   |
-| 6 | soniclabs   | https://arcade.soniclabs.com | bfphcs |   |   |
+| 6 | soniclabs   | https://arcade.soniclabs.com | bfphcs |   |   | 
 | 7 | humanity    | https://testnet.humanity.org/login?ref=wuya51 | wuya51 | daily |   |
 | 8 | testnet     | https://testnet.icn.global/  |  |  | TGE: Q1 25   |
 | 9 | walrus      | https://stake.walrus.site |   | daily |   |
